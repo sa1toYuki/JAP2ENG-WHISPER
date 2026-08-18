@@ -1,0 +1,13 @@
+# Instalação:
+#   1) pip install -r requirements.txt
+#   2) Instale o PyTorch com suporte a CUDA compatível com sua RTX 3050:
+#      https://pytorch.org/get-started/locally/
+#      (escolha "Pip" + a versão do CUDA que sua driver NVIDIA suporta)
+#   3) Instale o ffmpeg e garanta que está no PATH:
+#      Windows: choco install ffmpeg   (ou baixe em ffmpeg.org e adicione ao PATH)
+#      Linux:   sudo apt install ffmpeg
+
+openai-whisper
+pykakasi
+sudachipy
+sudachidict_core
