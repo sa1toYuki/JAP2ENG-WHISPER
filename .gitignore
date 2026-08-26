@@ -7,3 +7,10 @@ env/
 
 # Arquivos temporários
 *.log
+
+#testes
+daarin/
+torikago.ass
+
+#essenciais 
+.env
